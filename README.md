@@ -17,11 +17,11 @@ The primary objective of this site is to address this **information asymmetry** 
 
 ## How to add your audit experience
 
-- template.mdをコピーして、list配下のディレクトリにファイルを追加するPRを出してください。
-- ファイル名は`yyyyMMdd()_auditFirmName.md` でお願いします。
-- 抽象的な質問に関しては()で詳細を書いてます。また、Scoreの詳細についても下記に記載しています。参考にしてください。
+- Please copy the `00_template.md` and submit a PR by adding the `file/` under the list directory.
+- Name the file as `yyyyMMdd_auditFirmName.md`, where `yyyyMMdd` should be the date you submit the PR.
+- For abstract questions, details are provided in parentheses (). Also, details about the Score are mentioned below for your reference.
 
-* 匿名を希望する場合は、こちらに連絡ください。
+* If you wish to submit anonymously, please contact [me](https://twitter.com/_ywzx).
 
 ### Detail explanation about score
 - Quality : How was the overall quality of the audit?

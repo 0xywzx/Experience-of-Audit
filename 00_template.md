@@ -1,6 +1,22 @@
 ## Audit Type (Must)
 
+Please choose from the options below. If it's not there, feel free to add a new type.
+- Audit Firm
+- Competition DAO
+- Private / Individual
+
 ## Project Category (Must)
+
+Please choose from the options below. If it's not there, feel free to add a new category.
+- Token
+- ERC20
+- NFT
+- ERC721
+- ERC1155
+- DeFi
+- Game
+- Social
+- Escrow
 
 ## Score (Must)
 
